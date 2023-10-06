@@ -17,7 +17,7 @@ The **Online Quiz Management System** is a software solution that allows a parti
 - **Database:** MySQL
 - **Web Server:** Apache
 - **Development Tools:** PHPMyAdmin (for database management)
-- 
+ 
 ## Contributors 🙌
 
 - [**Shamir LC**](https://github.com/shamirmohammed)
