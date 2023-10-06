@@ -20,4 +20,4 @@ The **Online Quiz Management System** is a software solution that allows a parti
  
 ## Contributors 🙌
 
-- [**Shamir LC**](https://github.com/shamirmohammed)
+- [**Shamir L C**](https://github.com/shamirmohammed)
